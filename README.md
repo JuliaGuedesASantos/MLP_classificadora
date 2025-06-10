@@ -36,6 +36,6 @@ Para a execução da tarefa proposta, os códigos foram feitos em um notebook: "
 | GitHub | Contribuições |
 |:-----|:--------------|
 | [Júlia Guedes A. dos Santos](https://github.com/JuliaGuedesASantos) | Implementação da rede neural, comentários no código e criação do repositório |
-| [Ana Luiza Poletto Loss]() | Implementação da rede neural|
+| [Ana Luiza Poletto Loss](https://github.com/AnaPLoss) | Implementação da rede neural|
 | [Daniel Roberto Cassar](https://github.com/drcassar) | Orientador |
 
