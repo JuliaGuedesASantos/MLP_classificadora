@@ -1,4 +1,4 @@
-# <p align="center"> *MLP Classificadora** 🧪0️⃣1️⃣ </p>
+# <p align="center"> **MLP Classificadora** 🧪0️⃣1️⃣ </p>
 ## <p align="center"> Utilizando uma Multilayer Perceptron classificatória para a previsão de casos de diabetes </p>
 
 
