@@ -9,7 +9,6 @@
 **Orientador:** Dr. Daniel Roberto Cassar
 
 *** 
-### Introdução 🖼️
 <p align= "justify">
 
 </p>
